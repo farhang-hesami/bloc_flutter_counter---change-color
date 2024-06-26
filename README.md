@@ -1,6 +1,6 @@
 # bloc_flutter
 
-A new Flutter project.
+Another example to understand the block, counter and color change.
 
 ## Getting Started
 
